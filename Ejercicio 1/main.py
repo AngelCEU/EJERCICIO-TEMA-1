@@ -9,4 +9,5 @@ if __name__ == "__main__":
     mensaje = input("Introduce el mensaje cifrado: ")
     resultado = decodificar_mensaje(mensaje)
     print("Mensaje decodificado:", resultado)
-    
+
+
